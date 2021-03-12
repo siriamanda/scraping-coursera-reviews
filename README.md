@@ -8,5 +8,5 @@ Scraping coursera reviews for a project about the motivation of MOOC learners
 
 Jupyter Notebook: web-scraping-coursera-all-learners.ipynb
 
-Review scraped from: https://www.coursera.org/learn/python?specialization=python
+Reviews scraped from: https://www.coursera.org/learn/python?specialization=python
 
